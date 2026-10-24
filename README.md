@@ -6,7 +6,7 @@
   <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square" />
   <img alt="CompTIA Network+" src="https://img.shields.io/badge/CompTIA-Network%2B-C8202F?style=flat-square" />
   <img alt="Python Essentials" src="https://img.shields.io/badge/Python-Essentials-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <a href="https://www.linkedin.com/in/kam%E2%80%99ron-washington-2003a93a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kam-ron-washington-2003a93a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 I'm a cybersecurity student with two years of hands-on IT experience in enterprise healthcare and education. I build blue-team skills through Hack The Box, a virtual sandbox lab, Windows disk forensic examinations, and security tools I write in Python, PowerShell, Bash, and SQL.
@@ -35,4 +35,4 @@ I'm a cybersecurity student with two years of hands-on IT experience in enterpri
 | [**network-asset-discovery**](https://github.com/kamronw23/network-asset-discovery) | Finds every device on a network and flags rogue ones |
 | [**linux-hardening-audit**](https://github.com/kamronw23/linux-hardening-audit) | Read-only Linux security audit with a fix for every finding |
 
-📫 Open to SOC Analyst, Security Analyst, and Digital Forensics roles. [Let's connect on LinkedIn]([https://www.linkedin.com/in/kam%E2%80%99ron-washington-2003a93a0/](https://www.linkedin.com/in/kam-ron-washington-2003a93a0/.)).
+📫 Open to SOC Analyst, Security Analyst, and Digital Forensics roles. [Let's connect on LinkedIn](https://www.linkedin.com/in/kam-ron-washington-2003a93a0/).
