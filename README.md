@@ -35,4 +35,4 @@ I'm a cybersecurity student with two years of hands-on IT experience in enterpri
 | [**network-asset-discovery**](https://github.com/kamronw23/network-asset-discovery) | Finds every device on a network and flags rogue ones |
 | [**linux-hardening-audit**](https://github.com/kamronw23/linux-hardening-audit) | Read-only Linux security audit with a fix for every finding |
 
-📫 Open to SOC Analyst, Security Analyst, and Digital Forensics roles. [Let's connect on LinkedIn](https://www.linkedin.com/in/kam%E2%80%99ron-washington-2003a93a0/).
+📫 Open to SOC Analyst, Security Analyst, and Digital Forensics roles. [Let's connect on LinkedIn]([https://www.linkedin.com/in/kam%E2%80%99ron-washington-2003a93a0/](https://www.linkedin.com/in/kam-ron-washington-2003a93a0/.)).
